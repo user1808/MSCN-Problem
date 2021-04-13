@@ -1,0 +1,79 @@
+#pragma once
+#define MYERROR false
+#define MYNOERROR true
+
+#define LINE_LENGTH 100
+
+#define CD_COST_MIN 0
+#define CD_COST_MAX 25
+
+#define CF_COST_MIN 0
+#define CF_COST_MAX 20
+
+#define CM_COST_MIN 0
+#define CM_COST_MAX 40
+
+#define UD_COST_MIN 800
+#define UD_COST_MAX 1200
+
+#define UF_COST_MIN 2500
+#define UF_COST_MAX 3200
+
+#define UM_COST_MIN 1000
+#define UM_COST_MAX 1400
+
+#define SD_CAPACITY_MIN 5000
+#define SD_CAPACITY_MAX 6000
+
+#define SF_CAPACITY_MIN 2500
+#define SF_CAPACITY_MAX 3300
+
+#define SM_CAPACITY_MIN 800
+#define SM_CAPACITY_MAX 930
+
+#define SS_CAPACITY_MIN 150
+#define SS_CAPACITY_MAX 200
+
+#define PROFIT_MIN 100
+#define PROFIT_MAX 500
+
+#define XD_MINRES_MIN 1500
+#define XD_MINRES_MAX 1550
+
+#define XD_MAXRES_MIN 2000
+#define XD_MAXRES_MAX 2250
+
+#define XF_MINRES_MIN 450
+#define XF_MINRES_MAX 500
+
+#define XF_MAXRES_MIN 500
+#define XF_MAXRES_MAX 700
+
+#define XM_MINRES_MIN 0
+#define XM_MINRES_MAX 25
+
+#define XM_MAXRES_MIN 25
+#define XM_MAXRES_MAX 60
+
+/*#define XDVALUE_MIN 0
+#define XDVALUE_MAX 25000
+
+#define XFVALUE_MIN 0
+#define XFVALUE_MAX 18000
+
+#define XMVALUE_MIN 0
+#define XMVALUE_MAX 7000*/
+
+
+#define TIME 300 //5 minut w sekundach
+
+#define DEFAULT_POPULATION 10
+
+#define CROSS_PROB 0.7
+
+#define MIN_DIFF_WEIGHT 0.5
+#define MAX_DIFF_WEIGHT 2
+
+#define NUMBER_OF_ITERATION 100000
+
+#define MIN_POPULATION 3
